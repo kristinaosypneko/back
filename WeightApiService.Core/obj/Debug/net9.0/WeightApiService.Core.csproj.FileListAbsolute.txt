@@ -1,0 +1,16 @@
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/bin/Debug/net9.0/WeightApiService.Core.deps.json
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/bin/Debug/net9.0/WeightApiService.Core.dll
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/bin/Debug/net9.0/WeightApiService.Core.pdb
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/bin/Debug/net9.0/FluentResults.dll
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/bin/Debug/net9.0/FluentResults.xml
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/obj/Debug/net9.0/WeightApiService.Core.csproj.AssemblyReference.cache
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/obj/Debug/net9.0/WeightApiService.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/obj/Debug/net9.0/WeightApiService.Core.AssemblyInfoInputs.cache
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/obj/Debug/net9.0/WeightApiService.Core.AssemblyInfo.cs
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/obj/Debug/net9.0/WeightApiService.Core.csproj.CoreCompileInputs.cache
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/obj/Debug/net9.0/WeightAp.85CF74D1.Up2Date
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/obj/Debug/net9.0/WeightApiService.Core.dll
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/obj/Debug/net9.0/refint/WeightApiService.Core.dll
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/obj/Debug/net9.0/WeightApiService.Core.pdb
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/obj/Debug/net9.0/ref/WeightApiService.Core.dll
+/Users/sergeilogachev/RiderProjects/WeigthApiService/WeightApiService.Core/obj/Debug/net9.0/WeightApiService.Core.sourcelink.json

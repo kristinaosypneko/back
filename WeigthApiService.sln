@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeigthApiService.Api", "WeigthApiService.Api\WeigthApiService.Api.csproj", "{7B321A3C-A902-442A-A4DF-F76293D1D905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightApiService.Infrastructure", "WeightApiService.Infrastructure\WeightApiService.Infrastructure.csproj", "{AD87B1E1-005A-4108-B0E7-C2E4F3144BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightApiService.Core", "WeightApiService.Core\WeightApiService.Core.csproj", "{64AD5A04-3619-45EF-BD53-F4D67AB726B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightMeasurement.Worker", "WeightMeasurement.Worker\WeightMeasurement.Worker.csproj", "{00E2AACA-1894-468C-A33D-3A9CA2C54100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B321A3C-A902-442A-A4DF-F76293D1D905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B321A3C-A902-442A-A4DF-F76293D1D905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B321A3C-A902-442A-A4DF-F76293D1D905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B321A3C-A902-442A-A4DF-F76293D1D905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD87B1E1-005A-4108-B0E7-C2E4F3144BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD87B1E1-005A-4108-B0E7-C2E4F3144BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD87B1E1-005A-4108-B0E7-C2E4F3144BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD87B1E1-005A-4108-B0E7-C2E4F3144BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AD5A04-3619-45EF-BD53-F4D67AB726B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AD5A04-3619-45EF-BD53-F4D67AB726B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AD5A04-3619-45EF-BD53-F4D67AB726B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AD5A04-3619-45EF-BD53-F4D67AB726B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E2AACA-1894-468C-A33D-3A9CA2C54100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E2AACA-1894-468C-A33D-3A9CA2C54100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E2AACA-1894-468C-A33D-3A9CA2C54100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E2AACA-1894-468C-A33D-3A9CA2C54100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

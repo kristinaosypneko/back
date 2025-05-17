@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "WeightApiService.Core/1.0.0": {
+        "dependencies": {
+          "FluentResults": "3.16.0.0"
+        },
+        "runtime": {
+          "WeightApiService.Core.dll": {}
+        }
+      },
+      "FluentResults/3.16.0.0": {
+        "runtime": {
+          "FluentResults.dll": {
+            "assemblyVersion": "3.16.0.0",
+            "fileVersion": "3.16.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeightApiService.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentResults/3.16.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
